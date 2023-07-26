@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.33627.172
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureFunctions_Web", "AzureFunctions_Web\AzureFunctions_Web.csproj", "{5D532F3D-DA01-47B7-AB8D-EF7CE3B6B875}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureFunctions", "AzureFunctions\AzureFunctions.csproj", "{0326F993-3568-4EA8-B0B1-A00A65A6598D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{5D532F3D-DA01-47B7-AB8D-EF7CE3B6B875}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5D532F3D-DA01-47B7-AB8D-EF7CE3B6B875}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5D532F3D-DA01-47B7-AB8D-EF7CE3B6B875}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0326F993-3568-4EA8-B0B1-A00A65A6598D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0326F993-3568-4EA8-B0B1-A00A65A6598D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0326F993-3568-4EA8-B0B1-A00A65A6598D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0326F993-3568-4EA8-B0B1-A00A65A6598D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
